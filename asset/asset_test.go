@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/asset"
+	"github.com/pcieslar/goforge-core/asset"
 )
 
 func init() {

@@ -4,9 +4,9 @@ package storage
 import (
 	"encoding/json"
 
-	"github.com/blue-jay/core/jsonconfig"
-	"github.com/blue-jay/core/storage/driver/mysql"
-	"github.com/blue-jay/core/storage/driver/postgresql"
+	"github.com/pcieslar/goforge-core/jsonconfig"
+	"github.com/pcieslar/goforge-core/storage/driver/mysql"
+	"github.com/pcieslar/goforge-core/storage/driver/postgresql"
 )
 
 // Info contains the database connection information for the different storage.

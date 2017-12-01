@@ -4,7 +4,7 @@ package xsrf
 import (
 	"net/http"
 
-	"github.com/blue-jay/core/view"
+	"github.com/pcieslar/goforge-core/view"
 	"github.com/gorilla/csrf"
 )
 

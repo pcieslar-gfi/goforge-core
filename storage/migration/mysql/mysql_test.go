@@ -8,9 +8,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/blue-jay/core/storage"
-	"github.com/blue-jay/core/storage/migration"
-	"github.com/blue-jay/core/storage/migration/mysql"
+	"github.com/pcieslar/goforge-core/storage"
+	"github.com/pcieslar/goforge-core/storage/migration"
+	"github.com/pcieslar/goforge-core/storage/migration/mysql"
 
 	"github.com/jmoiron/sqlx"
 )

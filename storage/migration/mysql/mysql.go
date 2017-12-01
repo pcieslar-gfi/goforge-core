@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/blue-jay/core/storage"
-	driver "github.com/blue-jay/core/storage/driver/mysql"
-	"github.com/blue-jay/core/storage/migration"
+	"github.com/pcieslar/goforge-core/storage"
+	driver "github.com/pcieslar/goforge-core/storage/driver/mysql"
+	"github.com/pcieslar/goforge-core/storage/migration"
 	"github.com/jmoiron/sqlx"
 )
 

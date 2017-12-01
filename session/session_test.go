@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/blue-jay/core/session"
+	"github.com/pcieslar/goforge-core/session"
 
 	"github.com/gorilla/sessions"
 )

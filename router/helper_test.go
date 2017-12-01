@@ -6,7 +6,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/blue-jay/core/router"
+	"github.com/pcieslar/goforge-core/router"
 )
 
 // middlewareTest1 will modify a form variable.

@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/form"
+	"github.com/pcieslar/goforge-core/form"
 )
 
 // TestFormOption ensures input is parsed correctly.

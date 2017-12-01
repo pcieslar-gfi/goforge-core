@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/form"
+	"github.com/pcieslar/goforge-core/form"
 )
 
 // TestFormText ensures text field is repopulated with a value.
